@@ -1,9 +1,12 @@
 .box1 {
   background-color: blueviolet;
+  border: 5px blue solid;
 }
 
 .box2 {
   background-color: greenyellow;
+  border: 2px red dotted;
+  border-radius: 5px;
 }
 
 .text1 {
@@ -25,7 +28,6 @@
 .box6 {
   background-color: papayawhip;
 }
-
 
 /* do not change below this line */
 
